@@ -10,7 +10,7 @@ class Home extends BaseController
         // SKEMA 2 → Tambah baris berbeda
         
 
-        echo "Tambahan dari Zahira - Skema 2<br>";      // Baris untuk Zahira
+        echo "skema 2 - Tambahan baris dari Zahira";      // Baris untuk Zahira
         
 
         
