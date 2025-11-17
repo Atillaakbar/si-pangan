@@ -6,6 +6,17 @@ class Home extends BaseController
 {
     public function index(): string
     {
-        return view('welcome_message');
+       
+        // SKEMA 2 → Tambah baris berbeda
+        
+
+        echo "skema 2 - Tambahan baris dari Zahira";      // Baris untuk Zahira
+        
+
+        
+        
+      
+
+        return "Edit dari Zahira - Skema 1";
     }
 }
